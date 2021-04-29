@@ -1,2 +1,4 @@
-/user_data/
-/node_modules/
+/*
+/node_modules/*
+/user_data
+/node_modules
