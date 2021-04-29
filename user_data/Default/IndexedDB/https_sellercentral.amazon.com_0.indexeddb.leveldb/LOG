@@ -1,0 +1,8 @@
+2021/04/25-09:51:49.428 35f8 Reusing MANIFEST C:\Users\trung\Desktop\amazonseller (1)\amazonseller\user_data\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/25-09:51:49.429 35f8 Recovering log #2999
+2021/04/25-09:51:49.429 35f8 Reusing old log C:\Users\trung\Desktop\amazonseller (1)\amazonseller\user_data\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/002999.log 
+2021/04/25-09:51:52.824 35f8 Level-0 table #3004: started
+2021/04/25-09:51:52.827 35f8 Level-0 table #3004: 0 bytes OK
+2021/04/25-09:51:52.836 35f8 Delete type=0 #2999
+2021/04/25-09:51:52.847 35f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/25-09:51:52.847 2d1c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

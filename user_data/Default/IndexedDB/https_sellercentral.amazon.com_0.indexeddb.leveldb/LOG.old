@@ -1,0 +1,15 @@
+2021/04/25-09:51:38.124 282c Reusing MANIFEST C:\Users\trung\Desktop\amazonseller (1)\amazonseller\user_data\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/25-09:51:38.126 282c Recovering log #2996
+2021/04/25-09:51:38.132 282c Reusing old log C:\Users\trung\Desktop\amazonseller (1)\amazonseller\user_data\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/002996.log 
+2021/04/25-09:51:46.046 31fc Level-0 table #3000: started
+2021/04/25-09:51:46.185 31fc Level-0 table #3000: 3395 bytes OK
+2021/04/25-09:51:46.269 31fc Delete type=0 #2996
+2021/04/25-09:51:46.270 35f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/25-09:51:46.270 35f8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01<\x00A\x00T\x00V\x00P\x00D\x00K\x00I\x00K\x00X\x000\x00D\x00E\x00R\x00_\x00A\x003\x00J\x00W\x00S\x002\x008\x003\x00C\x00P\x001\x00Z\x000\x00R\x00_\x00P\x00I\x00N\x00K\x00 \x00F\x00L\x00O\x00W\x00E\x00R\x00_\x00p\x00a\x00r\x00e\x00n\x00t\x001\x006\x001\x009\x002\x005\x002\x005\x002\x000\x002\x000\x006' @ 5184 : 1
+2021/04/25-09:51:46.270 35f8 Compacting 1@1 + 1@2 files
+2021/04/25-09:51:46.290 35f8 Generated table #3001@1: 218 keys, 288242 bytes
+2021/04/25-09:51:46.290 35f8 Compacted 1@1 + 1@2 files => 288242 bytes
+2021/04/25-09:51:46.292 35f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/25-09:51:46.293 35f8 Delete type=2 #2994
+2021/04/25-09:51:46.293 35f8 Delete type=2 #3000
+2021/04/25-09:51:46.294 35f8 Manual compaction at level-1 from '\x00\x01\x01\x02\x01<\x00A\x00T\x00V\x00P\x00D\x00K\x00I\x00K\x00X\x000\x00D\x00E\x00R\x00_\x00A\x003\x00J\x00W\x00S\x002\x008\x003\x00C\x00P\x001\x00Z\x000\x00R\x00_\x00P\x00I\x00N\x00K\x00 \x00F\x00L\x00O\x00W\x00E\x00R\x00_\x00p\x00a\x00r\x00e\x00n\x00t\x001\x006\x001\x009\x002\x005\x002\x005\x002\x000\x002\x000\x006' @ 5184 : 1 .. (end); will stop at (end)

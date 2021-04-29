@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chromium": "^3.0.2",
+    "line-reader": "^0.4.0",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2"
+  }
+}

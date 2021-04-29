@@ -1,0 +1,30 @@
+*SIZE
+Adult Small (S)
+Adult Medium (M)
+Adult Large (L)
+Adult X Large (XL) +1.5
+Adult 2X Large (2XL) +2.5
+Adult 3X Large (3XL) +2.5
+Youth Small (YS)
+Youth Medium (YM)
+Youth Large (YL)
+Youth X Large (YXL)
+*STYLE
+Short Sleeve T-Shirt  +0
+Long Sleeve T-Shirt +5
+Ladies Short-Sleeve  +5
+Unisex Tank   +5
+Unisex V-Neck T-Shirt  +5
+Crewneck Sweatshirt  +15
+Heavy Blend Hoodie  +20
+Zip Hoodie   +25
+*COLOR
+Black
+White
+Carolina Blue
+Irish Green
+Red
+Pink
+Daisy
+Navy
+Sport Grey
